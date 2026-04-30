@@ -72,7 +72,7 @@ https://mohamedfaizn.github.io/livewire-uiux-redesign-internship/
 
 View the complete UI/UX design process:
 
-https://www.figma.com/make/trTuWthhEIGhWztd136iZI/Training-Institute-Website-UI?t=79Td4NESakhD9MMp-1
+https://eagle-polka-30899796.figma.site/
 
 Includes:
 - Low-Fidelity Wireframes
