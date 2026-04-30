@@ -1,0 +1,45 @@
+<!-- ============================================
+     NAVBAR COMPONENT SNIPPET
+     Copy this into index.html <body> as the first element
+     ============================================ -->
+
+<!-- Requires: style.css (navbar styles) + script.js (hamburger toggle) -->
+
+<header class="navbar" id="navbar">
+  <div class="container nav-inner">
+
+    <!-- Logo -->
+    <a href="#" class="nav-logo">
+      <span class="logo-live">LIVE</span><span class="logo-wire">wire</span>
+      <sup class="logo-tm">™</sup>
+    </a>
+
+    <!-- Desktop Navigation Links -->
+    <nav class="nav-links" id="navLinks">
+      <a href="#home"     class="nav-link">Home</a>
+      <a href="#courses"  class="nav-link">Courses</a>
+      <a href="#programs" class="nav-link">Programs</a>
+      <a href="#about"    class="nav-link">About</a>
+      <a href="#contact"  class="nav-link">Contact</a>
+      <a href="#"         class="btn btn-primary btn-sm">Student Login</a>
+    </nav>
+
+    <!-- Hamburger Button (mobile only) -->
+    <button class="hamburger" id="hamburger" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+  </div>
+
+  <!-- Mobile Dropdown Menu -->
+  <div class="mobile-menu" id="mobileMenu">
+    <a href="#home"     class="mobile-link">Home</a>
+    <a href="#courses"  class="mobile-link">Courses</a>
+    <a href="#programs" class="mobile-link">Programs</a>
+    <a href="#about"    class="mobile-link">About</a>
+    <a href="#contact"  class="mobile-link">Contact</a>
+    <a href="#" class="btn btn-primary" style="margin-top: 1rem;">Student Login</a>
+  </div>
+</header>
