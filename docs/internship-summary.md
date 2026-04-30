@@ -128,4 +128,4 @@ Date of Issue: **15-Jul-2024**
 Internship Title: **Internship on Developing Responsive Frontend Websites**  
 Location: **Livewire, Tenkasi**
 
-> *Scan of certificate available in `assets/images/internship-certificate.jpg`*
+> *Scan of certificate available in `docs/internship-certificate.pdf`*
