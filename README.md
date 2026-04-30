@@ -169,12 +169,6 @@ livewire-uiux-redesign-internship/
 ├── LICENSE                           # MIT
 ├── README.md                         # This file
 │
-├── assets/
-│   ├── images/
-│   │   └── README.md                 # Image inventory + placeholder guide
-│   └── icons/
-│       └── README.md
-│
 ├── components/
 │   ├── navbar.html                   # Navbar component snippet
 │   ├── hero.html                     # Hero section snippet
